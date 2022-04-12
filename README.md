@@ -4,8 +4,10 @@
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
-猫咪整合菜谱，学不会的直接重开吧真的！
-学不会就开摆？
+
+
+猫咪整合菜谱，调味品用量精确到克，所以学不会的直接REMAKE。
+猫咪搜寻菜谱并结合实际做菜的经验，准备用更清晰精准的描述来整理常见菜的做法。
 
 
 ## 如何贡献
@@ -18,7 +20,6 @@
 
 - [厨房准备](./tips/厨房准备.md)
 - [如何选择现在吃什么](./tips/如何选择现在吃什么.md)
-- [上海买菜指南](./tips/上海买菜指南.md)
 - [高压力锅](./tips/learn/高压力锅.md)
 - [食品安全](./tips/learn/食品安全.md)
 - [微波炉](./tips/learn/微波炉.md)
